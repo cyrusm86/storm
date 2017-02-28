@@ -1,9 +1,0 @@
--+
--DCCI
--D_IDA_XL
--DWINNT
--IC:\Users\srl_git\Documents\VuGen\Scripts\AOS_TC_Git
--IC:\Program Files (x86)\HP\Virtual User Generator\include
--ec:\users\srl_git\documents\vugen\scripts\aos_tc_git\\logfile.log
-c:\users\srl_git\documents\vugen\scripts\aos_tc_git\\combined_AOS_TC_Git.c
-c:\users\srl_git\documents\vugen\scripts\aos_tc_git\\pre_cci.c
