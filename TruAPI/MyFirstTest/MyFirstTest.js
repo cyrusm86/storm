@@ -8,7 +8,7 @@ exports = module.exports = function (vuser) {
  
   /* prepare test data */
   vuserId = vuser.getVUserId();
-  testUrl = 'http://stormhelp.saas.hp.com';
+  testUrl = 'http://advantageonlineshopping.com';
 
   /* init action */
   vuser.init('Vuser init action', function (svc, done) {
